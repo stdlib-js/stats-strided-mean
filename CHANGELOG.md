@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-09)
+## Unreleased (2025-06-12)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`80034f7`](https://github.com/stdlib-js/stdlib/commit/80034f76a22401c4b5fbd348c0493499d042d6d6) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`d8ffccd`](https://github.com/stdlib-js/stdlib/commit/d8ffccde0e12f66a3f161ccb01efd870f4e7efcd) - **feat:** add `stats/strided/mean` _(by Gururaj Gurram)_
 
 </details>

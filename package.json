@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/stats-base-meanpn": "^0.2.2",
+    "@stdlib/stats-strided-meanpn": "github:stdlib-js/stats-strided-meanpn#main",
     "@stdlib/types": "^0.4.3",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2"
   },
